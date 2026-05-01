@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is André. Nice to meet you!
+Nice to meet you!
 
 ## Stack
 
